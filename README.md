@@ -118,7 +118,23 @@ const EXAM_COURSE_MAP = {
 
 ## 📸 Screenshots
 
-*(Add screenshots of each tab here with data blurred/cropped)*
+### 📌 Today's Classes
+![Today's Classes](screenshots/Today.jpg)
+
+### My TT
+![My Courses](screenshots/tt.jpg)
+
+### Original TT
+![Original](screenshots/main.jpg)
+
+### ⚠️ Conflicts
+![Conflicts](screenshots/conflicts.jpg)
+
+### 📊 Weekly Summary
+![Weekly Summary](screenshots/weekly.jpg)
+
+### ✏️ Mark Attendance
+![Mark Attendance](screenshots/attendance.jpg)
 
 ---
 
